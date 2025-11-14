@@ -12,7 +12,5 @@ Repository structure
 |
 |__ code
 |
-|__ video demo (my explanation)
-|
 |__ README.md
 ```
