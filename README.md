@@ -14,3 +14,5 @@ Repository structure
 |
 |__ README.md
 ```
+
+I will add link to my live coding session here: 
